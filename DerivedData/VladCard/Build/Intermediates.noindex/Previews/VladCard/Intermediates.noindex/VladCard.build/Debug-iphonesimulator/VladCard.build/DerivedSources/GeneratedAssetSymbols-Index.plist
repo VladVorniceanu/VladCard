@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/VladCard/VladCard/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBackgroundColor</string>
+			<key>relativePath</key>
+			<string>./BackgroundColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>background</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/VladCard/VladCard/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameLabelColors</string>
+			<key>relativePath</key>
+			<string>./LabelColors.colorset</string>
+			<key>swiftSymbol</key>
+			<string>labelColors</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/VladCard/VladCard/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameSecondaryColor</string>
+			<key>relativePath</key>
+			<string>./SecondaryColor.colorset</string>
+			<key>swiftSymbol</key>
+			<string>secondary</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/VladCard/VladCard/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameSecondaryColorInverted</string>
+			<key>relativePath</key>
+			<string>./SecondaryColorInverted.colorset</string>
+			<key>swiftSymbol</key>
+			<string>secondaryColorInverted</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

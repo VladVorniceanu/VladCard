@@ -1,0 +1,107 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bb82f3294eaafa696f88f4735e2e17e6afc311e2639568ab13b9bf28e1c8f28d",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Products",
+          "derivedDataPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/Previews/iphonesimulator/VladCard/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/Previews/iphonesimulator/VladCard/Intermediates.noindex",
+              "SYMROOT" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/Previews/iphonesimulator/VladCard/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "D29E0ED7-031D-4348-894A-064D888D56A4",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/VladCard/VladCard.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "D29E0ED7-031D-4348-894A-064D888D56A4",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3430C2BD2B99C58100E2171F /* Montserrat-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3430C2BB2B99C58100E2171F /* Montserrat-Italic-VariableFont_wght.ttf */; };
+		3430C2BE2B99C58100E2171F /* Montserrat-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3430C2BC2B99C58100E2171F /* Montserrat-VariableFont_wght.ttf */; };
+		34443BBC2B99CD5600F541AA /* FRINCO.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34443BBA2B99CD5600F541AA /* FRINCO.ttf */; };
+		34443BBD2B99CD5600F541AA /* PRISTINA.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 34443BBB2B99CD5600F541AA /* PRISTINA.TTF */; };
+		34443BC02B99E56900F541AA /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34443BBF2B99E56900F541AA /* InfoView.swift */; };
 		34DC5BB22B9718C7005D48D5 /* VladCardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DC5BB12B9718C7005D48D5 /* VladCardApp.swift */; };
 		34DC5BB42B9718C7005D48D5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DC5BB32B9718C7005D48D5 /* ContentView.swift */; };
 		34DC5BB62B9718C8005D48D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34DC5BB52B9718C8005D48D5 /* Assets.xcassets */; };
@@ -14,6 +19,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3430C2BB2B99C58100E2171F /* Montserrat-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-Italic-VariableFont_wght.ttf"; path = "VladCard/fonts_new/Montserrat-Italic-VariableFont_wght.ttf"; sourceTree = SOURCE_ROOT; };
+		3430C2BC2B99C58100E2171F /* Montserrat-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Montserrat-VariableFont_wght.ttf"; path = "VladCard/fonts_new/Montserrat-VariableFont_wght.ttf"; sourceTree = SOURCE_ROOT; };
+		3430C2BF2B99C7EC00E2171F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		34443BBA2B99CD5600F541AA /* FRINCO.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FRINCO.ttf; path = VladCard/fonts_new/FRINCO.ttf; sourceTree = SOURCE_ROOT; };
+		34443BBB2B99CD5600F541AA /* PRISTINA.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = PRISTINA.TTF; path = VladCard/fonts_new/PRISTINA.TTF; sourceTree = SOURCE_ROOT; };
+		34443BBF2B99E56900F541AA /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		34DC5BAE2B9718C7005D48D5 /* VladCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VladCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34DC5BB12B9718C7005D48D5 /* VladCardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VladCardApp.swift; sourceTree = "<group>"; };
 		34DC5BB32B9718C7005D48D5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +43,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3430C2BA2B99C52A00E2171F /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		34443BBE2B99D21600F541AA /* fonts_new */ = {
+			isa = PBXGroup;
+			children = (
+				34443BBA2B99CD5600F541AA /* FRINCO.ttf */,
+				34443BBB2B99CD5600F541AA /* PRISTINA.TTF */,
+				3430C2BB2B99C58100E2171F /* Montserrat-Italic-VariableFont_wght.ttf */,
+				3430C2BC2B99C58100E2171F /* Montserrat-VariableFont_wght.ttf */,
+			);
+			path = fonts_new;
+			sourceTree = "<group>";
+		};
 		34DC5BA52B9718C7005D48D5 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +80,12 @@
 		34DC5BB02B9718C7005D48D5 /* VladCard */ = {
 			isa = PBXGroup;
 			children = (
+				34443BBE2B99D21600F541AA /* fonts_new */,
+				3430C2BF2B99C7EC00E2171F /* Info.plist */,
+				3430C2BA2B99C52A00E2171F /* fonts */,
 				34DC5BB12B9718C7005D48D5 /* VladCardApp.swift */,
 				34DC5BB32B9718C7005D48D5 /* ContentView.swift */,
+				34443BBF2B99E56900F541AA /* InfoView.swift */,
 				34DC5BB52B9718C8005D48D5 /* Assets.xcassets */,
 				34DC5BB72B9718C8005D48D5 /* Preview Content */,
 			);
@@ -125,8 +158,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3430C2BE2B99C58100E2171F /* Montserrat-VariableFont_wght.ttf in Resources */,
 				34DC5BB92B9718C8005D48D5 /* Preview Assets.xcassets in Resources */,
+				34443BBD2B99CD5600F541AA /* PRISTINA.TTF in Resources */,
+				3430C2BD2B99C58100E2171F /* Montserrat-Italic-VariableFont_wght.ttf in Resources */,
 				34DC5BB62B9718C8005D48D5 /* Assets.xcassets in Resources */,
+				34443BBC2B99CD5600F541AA /* FRINCO.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34DC5BB42B9718C7005D48D5 /* ContentView.swift in Sources */,
+				34443BC02B99E56900F541AA /* InfoView.swift in Sources */,
 				34DC5BB22B9718C7005D48D5 /* VladCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,7 +235,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -254,7 +292,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -275,6 +313,7 @@
 				DEVELOPMENT_TEAM = KK4TXUS6YX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VladCard/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +343,7 @@
 				DEVELOPMENT_TEAM = KK4TXUS6YX;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VladCard/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

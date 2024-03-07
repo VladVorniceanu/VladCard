@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'VladCard' in project 'VladCard' (no dependencies)
+Target 'VladCard' in project 'VladCard' (no dependencies)

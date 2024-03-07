@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/Build/Intermediates.noindex/VladCard.build/Debug-iphoneos/VladCard.build/Objects-normal/arm64/VladCard-master.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/Build/Intermediates.noindex/VladCard.build/Debug-iphoneos/VladCard.build/Objects-normal/arm64/VladCard-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/Build/Intermediates.noindex/VladCard.build/Debug-iphoneos/VladCard.build/Objects-normal/arm64/VladCard-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/Build/Intermediates.noindex/VladCard.build/Debug-iphoneos/VladCard.build/Objects-normal/arm64/VladCard-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/Build/Intermediates.noindex/VladCard.build/Debug-iphoneos/VladCard.build/Objects-normal/arm64/VladCard-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/Build/Intermediates.noindex/VladCard.build/Debug-iphoneos/VladCard.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/VladCard/VladCard/ContentView.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/VladCard/VladCard/VladCardApp.swift" : {
+
+  }
+}

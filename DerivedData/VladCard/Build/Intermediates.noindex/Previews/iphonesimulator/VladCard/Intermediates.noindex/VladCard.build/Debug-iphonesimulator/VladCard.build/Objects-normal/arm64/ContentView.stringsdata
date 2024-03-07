@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladvorniceanu/Development/VladCard/VladCard/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Vlad Vorniceanu"
+      },
+      {
+        "comment": "",
+        "key": "iOS Developer"
+      }
+    ]
+  },
+  "version": 1
+}

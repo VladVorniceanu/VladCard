@@ -3,8 +3,51 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>986DC10F-574C-409B-86A1-70E9B4441685</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>986DC10F-574C-409B-86A1-70E9B4441685.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VladCard project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VladCard</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews VladCard</string>
+			<key>timeStartedRecording</key>
+			<real>731506173.72361898</real>
+			<key>timeStoppedRecording</key>
+			<real>731506174.41974497</real>
+			<key>title</key>
+			<string>Build for Previews VladCard</string>
+			<key>uniqueIdentifier</key>
+			<string>986DC10F-574C-409B-86A1-70E9B4441685</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bb82f3294eaafa696f88f4735e2e17e6afc311e2639568ab13b9bf28e1c8f28d"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/VladCard/VladCard.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/Previews/VladCard/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/Previews/VladCard/Intermediates.noindex",
+          "SYMROOT" : "/Users/vladvorniceanu/Development/VladCard/DerivedData/VladCard/Build/Intermediates.noindex/Previews/VladCard/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
